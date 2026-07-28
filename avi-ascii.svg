@@ -1,0 +1,483 @@
+<svg viewBox="0 0 660.0 636" width="660.0" height="636"
+     xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="clip0">
+      <rect x="0" y="0" width="0" height="14">
+        <animate attributeName="width" from="0" to="6.6"
+                 begin="0.0s" dur="0.35s"
+                 fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip1">
+      <rect x="0" y="12" width="0" height="14">
+        <animate attributeName="width" from="0" to="6.6"
+                 begin="0.045s" dur="0.35s"
+                 fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip2">
+      <rect x="0" y="24" width="0" height="14">
+        <animate attributeName="width" from="0" to="6.6"
+                 begin="0.09s" dur="0.35s"
+                 fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip3">
+      <rect x="0" y="36" width="0" height="14">
+        <animate attributeName="width" from="0" to="6.6"
+                 begin="0.135s" dur="0.35s"
+                 fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip4">
+      <rect x="0" y="48" width="0" height="14">
+        <animate attributeName="width" from="0" to="6.6"
+                 begin="0.18s" dur="0.35s"
+                 fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip5">
+      <rect x="0" y="60" width="0" height="14">
+        <animate attributeName="width" from="0" to="6.6"
+                 begin="0.225s" dur="0.35s"
+                 fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip6">
+      <rect x="0" y="72" width="0" height="14">
+        <animate attributeName="width" from="0" to="6.6"
+                 begin="0.27s" dur="0.35s"
+                 fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip7">
+      <rect x="0" y="84" width="0" height="14">
+        <animate attributeName="width" from="0" to="6.6"
+                 begin="0.315s" dur="0.35s"
+                 fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip8">
+      <rect x="0" y="96" width="0" height="14">
+        <animate attributeName="width" from="0" to="6.6"
+                 begin="0.36s" dur="0.35s"
+                 fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip9">
+      <rect x="0" y="108" width="0" height="14">
+        <animate attributeName="width" from="0" to="6.6"
+                 begin="0.405s" dur="0.35s"
+                 fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip10">
+      <rect x="0" y="120" width="0" height="14">
+        <animate attributeName="width" from="0" to="6.6"
+                 begin="0.45s" dur="0.35s"
+                 fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip11">
+      <rect x="0" y="132" width="0" height="14">
+        <animate attributeName="width" from="0" to="6.6"
+                 begin="0.495s" dur="0.35s"
+                 fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip12">
+      <rect x="0" y="144" width="0" height="14">
+        <animate attributeName="width" from="0" to="6.6"
+                 begin="0.54s" dur="0.35s"
+                 fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip13">
+      <rect x="0" y="156" width="0" height="14">
+        <animate attributeName="width" from="0" to="6.6"
+                 begin="0.585s" dur="0.35s"
+                 fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip14">
+      <rect x="0" y="168" width="0" height="14">
+        <animate attributeName="width" from="0" to="6.6"
+                 begin="0.63s" dur="0.35s"
+                 fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip15">
+      <rect x="0" y="180" width="0" height="14">
+        <animate attributeName="width" from="0" to="6.6"
+                 begin="0.675s" dur="0.35s"
+                 fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip16">
+      <rect x="0" y="192" width="0" height="14">
+        <animate attributeName="width" from="0" to="6.6"
+                 begin="0.72s" dur="0.35s"
+                 fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip17">
+      <rect x="0" y="204" width="0" height="14">
+        <animate attributeName="width" from="0" to="356.4"
+                 begin="0.765s" dur="0.35s"
+                 fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip18">
+      <rect x="0" y="216" width="0" height="14">
+        <animate attributeName="width" from="0" to="363.0"
+                 begin="0.81s" dur="0.35s"
+                 fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip19">
+      <rect x="0" y="228" width="0" height="14">
+        <animate attributeName="width" from="0" to="369.59999999999997"
+                 begin="0.855s" dur="0.35s"
+                 fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip20">
+      <rect x="0" y="240" width="0" height="14">
+        <animate attributeName="width" from="0" to="369.59999999999997"
+                 begin="0.9s" dur="0.35s"
+                 fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip21">
+      <rect x="0" y="252" width="0" height="14">
+        <animate attributeName="width" from="0" to="376.2"
+                 begin="0.945s" dur="0.35s"
+                 fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip22">
+      <rect x="0" y="264" width="0" height="14">
+        <animate attributeName="width" from="0" to="376.2"
+                 begin="0.99s" dur="0.35s"
+                 fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip23">
+      <rect x="0" y="276" width="0" height="14">
+        <animate attributeName="width" from="0" to="363.0"
+                 begin="1.035s" dur="0.35s"
+                 fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip24">
+      <rect x="0" y="288" width="0" height="14">
+        <animate attributeName="width" from="0" to="369.59999999999997"
+                 begin="1.08s" dur="0.35s"
+                 fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip25">
+      <rect x="0" y="300" width="0" height="14">
+        <animate attributeName="width" from="0" to="382.79999999999995"
+                 begin="1.125s" dur="0.35s"
+                 fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip26">
+      <rect x="0" y="312" width="0" height="14">
+        <animate attributeName="width" from="0" to="435.59999999999997"
+                 begin="1.17s" dur="0.35s"
+                 fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip27">
+      <rect x="0" y="324" width="0" height="14">
+        <animate attributeName="width" from="0" to="468.59999999999997"
+                 begin="1.215s" dur="0.35s"
+                 fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip28">
+      <rect x="0" y="336" width="0" height="14">
+        <animate attributeName="width" from="0" to="481.79999999999995"
+                 begin="1.26s" dur="0.35s"
+                 fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip29">
+      <rect x="0" y="348" width="0" height="14">
+        <animate attributeName="width" from="0" to="495.0"
+                 begin="1.305s" dur="0.35s"
+                 fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip30">
+      <rect x="0" y="360" width="0" height="14">
+        <animate attributeName="width" from="0" to="501.59999999999997"
+                 begin="1.35s" dur="0.35s"
+                 fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip31">
+      <rect x="0" y="372" width="0" height="14">
+        <animate attributeName="width" from="0" to="514.8"
+                 begin="1.395s" dur="0.35s"
+                 fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip32">
+      <rect x="0" y="384" width="0" height="14">
+        <animate attributeName="width" from="0" to="521.4"
+                 begin="1.44s" dur="0.35s"
+                 fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip33">
+      <rect x="0" y="396" width="0" height="14">
+        <animate attributeName="width" from="0" to="521.4"
+                 begin="1.485s" dur="0.35s"
+                 fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip34">
+      <rect x="0" y="408" width="0" height="14">
+        <animate attributeName="width" from="0" to="514.8"
+                 begin="1.53s" dur="0.35s"
+                 fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip35">
+      <rect x="0" y="420" width="0" height="14">
+        <animate attributeName="width" from="0" to="514.8"
+                 begin="1.575s" dur="0.35s"
+                 fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip36">
+      <rect x="0" y="432" width="0" height="14">
+        <animate attributeName="width" from="0" to="514.8"
+                 begin="1.62s" dur="0.35s"
+                 fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip37">
+      <rect x="0" y="444" width="0" height="14">
+        <animate attributeName="width" from="0" to="514.8"
+                 begin="1.665s" dur="0.35s"
+                 fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip38">
+      <rect x="0" y="456" width="0" height="14">
+        <animate attributeName="width" from="0" to="514.8"
+                 begin="1.71s" dur="0.35s"
+                 fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip39">
+      <rect x="0" y="468" width="0" height="14">
+        <animate attributeName="width" from="0" to="514.8"
+                 begin="1.755s" dur="0.35s"
+                 fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip40">
+      <rect x="0" y="480" width="0" height="14">
+        <animate attributeName="width" from="0" to="514.8"
+                 begin="1.8s" dur="0.35s"
+                 fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip41">
+      <rect x="0" y="492" width="0" height="14">
+        <animate attributeName="width" from="0" to="508.2"
+                 begin="1.845s" dur="0.35s"
+                 fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip42">
+      <rect x="0" y="504" width="0" height="14">
+        <animate attributeName="width" from="0" to="501.59999999999997"
+                 begin="1.89s" dur="0.35s"
+                 fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip43">
+      <rect x="0" y="516" width="0" height="14">
+        <animate attributeName="width" from="0" to="495.0"
+                 begin="1.935s" dur="0.35s"
+                 fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip44">
+      <rect x="0" y="528" width="0" height="14">
+        <animate attributeName="width" from="0" to="488.4"
+                 begin="1.98s" dur="0.35s"
+                 fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip45">
+      <rect x="0" y="540" width="0" height="14">
+        <animate attributeName="width" from="0" to="481.79999999999995"
+                 begin="2.025s" dur="0.35s"
+                 fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip46">
+      <rect x="0" y="552" width="0" height="14">
+        <animate attributeName="width" from="0" to="475.2"
+                 begin="2.07s" dur="0.35s"
+                 fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip47">
+      <rect x="0" y="564" width="0" height="14">
+        <animate attributeName="width" from="0" to="475.2"
+                 begin="2.115s" dur="0.35s"
+                 fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip48">
+      <rect x="0" y="576" width="0" height="14">
+        <animate attributeName="width" from="0" to="475.2"
+                 begin="2.16s" dur="0.35s"
+                 fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip49">
+      <rect x="0" y="588" width="0" height="14">
+        <animate attributeName="width" from="0" to="475.2"
+                 begin="2.205s" dur="0.35s"
+                 fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip50">
+      <rect x="0" y="600" width="0" height="14">
+        <animate attributeName="width" from="0" to="475.2"
+                 begin="2.25s" dur="0.35s"
+                 fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip51">
+      <rect x="0" y="612" width="0" height="14">
+        <animate attributeName="width" from="0" to="475.2"
+                 begin="2.295s" dur="0.35s"
+                 fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip52">
+      <rect x="0" y="624" width="0" height="14">
+        <animate attributeName="width" from="0" to="475.2"
+                 begin="2.34s" dur="0.35s"
+                 fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
+  </defs>
+  <rect width="660.0" height="636" fill="none" />
+  <g clip-path="url(#clip0)"><text x="0" y="9.600000000000001" font-family="monospace" font-size="12" fill="#9aa5b1" xml:space="preserve"> </text></g>
+  <rect width="6.6" height="12" y="0" fill="#9aa5b1" opacity="0"><animate attributeName="x" from="0" to="0.0" begin="0.0s" dur="0.35s" fill="freeze" calcMode="linear" /><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1" begin="0.0s" dur="0.35s" fill="freeze" /></rect>
+  <g clip-path="url(#clip1)"><text x="0" y="21.6" font-family="monospace" font-size="12" fill="#9aa5b1" xml:space="preserve"> </text></g>
+  <rect width="6.6" height="12" y="12" fill="#9aa5b1" opacity="0"><animate attributeName="x" from="0" to="0.0" begin="0.045s" dur="0.35s" fill="freeze" calcMode="linear" /><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1" begin="0.045s" dur="0.35s" fill="freeze" /></rect>
+  <g clip-path="url(#clip2)"><text x="0" y="33.6" font-family="monospace" font-size="12" fill="#9aa5b1" xml:space="preserve"> </text></g>
+  <rect width="6.6" height="12" y="24" fill="#9aa5b1" opacity="0"><animate attributeName="x" from="0" to="0.0" begin="0.09s" dur="0.35s" fill="freeze" calcMode="linear" /><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1" begin="0.09s" dur="0.35s" fill="freeze" /></rect>
+  <g clip-path="url(#clip3)"><text x="0" y="45.6" font-family="monospace" font-size="12" fill="#9aa5b1" xml:space="preserve"> </text></g>
+  <rect width="6.6" height="12" y="36" fill="#9aa5b1" opacity="0"><animate attributeName="x" from="0" to="0.0" begin="0.135s" dur="0.35s" fill="freeze" calcMode="linear" /><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1" begin="0.135s" dur="0.35s" fill="freeze" /></rect>
+  <g clip-path="url(#clip4)"><text x="0" y="57.6" font-family="monospace" font-size="12" fill="#9aa5b1" xml:space="preserve"> </text></g>
+  <rect width="6.6" height="12" y="48" fill="#9aa5b1" opacity="0"><animate attributeName="x" from="0" to="0.0" begin="0.18s" dur="0.35s" fill="freeze" calcMode="linear" /><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1" begin="0.18s" dur="0.35s" fill="freeze" /></rect>
+  <g clip-path="url(#clip5)"><text x="0" y="69.6" font-family="monospace" font-size="12" fill="#9aa5b1" xml:space="preserve"> </text></g>
+  <rect width="6.6" height="12" y="60" fill="#9aa5b1" opacity="0"><animate attributeName="x" from="0" to="0.0" begin="0.225s" dur="0.35s" fill="freeze" calcMode="linear" /><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1" begin="0.225s" dur="0.35s" fill="freeze" /></rect>
+  <g clip-path="url(#clip6)"><text x="0" y="81.6" font-family="monospace" font-size="12" fill="#9aa5b1" xml:space="preserve"> </text></g>
+  <rect width="6.6" height="12" y="72" fill="#9aa5b1" opacity="0"><animate attributeName="x" from="0" to="0.0" begin="0.27s" dur="0.35s" fill="freeze" calcMode="linear" /><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1" begin="0.27s" dur="0.35s" fill="freeze" /></rect>
+  <g clip-path="url(#clip7)"><text x="0" y="93.6" font-family="monospace" font-size="12" fill="#9aa5b1" xml:space="preserve"> </text></g>
+  <rect width="6.6" height="12" y="84" fill="#9aa5b1" opacity="0"><animate attributeName="x" from="0" to="0.0" begin="0.315s" dur="0.35s" fill="freeze" calcMode="linear" /><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1" begin="0.315s" dur="0.35s" fill="freeze" /></rect>
+  <g clip-path="url(#clip8)"><text x="0" y="105.6" font-family="monospace" font-size="12" fill="#9aa5b1" xml:space="preserve"> </text></g>
+  <rect width="6.6" height="12" y="96" fill="#9aa5b1" opacity="0"><animate attributeName="x" from="0" to="0.0" begin="0.36s" dur="0.35s" fill="freeze" calcMode="linear" /><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1" begin="0.36s" dur="0.35s" fill="freeze" /></rect>
+  <g clip-path="url(#clip9)"><text x="0" y="117.6" font-family="monospace" font-size="12" fill="#9aa5b1" xml:space="preserve"> </text></g>
+  <rect width="6.6" height="12" y="108" fill="#9aa5b1" opacity="0"><animate attributeName="x" from="0" to="0.0" begin="0.405s" dur="0.35s" fill="freeze" calcMode="linear" /><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1" begin="0.405s" dur="0.35s" fill="freeze" /></rect>
+  <g clip-path="url(#clip10)"><text x="0" y="129.6" font-family="monospace" font-size="12" fill="#9aa5b1" xml:space="preserve"> </text></g>
+  <rect width="6.6" height="12" y="120" fill="#9aa5b1" opacity="0"><animate attributeName="x" from="0" to="0.0" begin="0.45s" dur="0.35s" fill="freeze" calcMode="linear" /><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1" begin="0.45s" dur="0.35s" fill="freeze" /></rect>
+  <g clip-path="url(#clip11)"><text x="0" y="141.6" font-family="monospace" font-size="12" fill="#9aa5b1" xml:space="preserve"> </text></g>
+  <rect width="6.6" height="12" y="132" fill="#9aa5b1" opacity="0"><animate attributeName="x" from="0" to="0.0" begin="0.495s" dur="0.35s" fill="freeze" calcMode="linear" /><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1" begin="0.495s" dur="0.35s" fill="freeze" /></rect>
+  <g clip-path="url(#clip12)"><text x="0" y="153.6" font-family="monospace" font-size="12" fill="#9aa5b1" xml:space="preserve"> </text></g>
+  <rect width="6.6" height="12" y="144" fill="#9aa5b1" opacity="0"><animate attributeName="x" from="0" to="0.0" begin="0.54s" dur="0.35s" fill="freeze" calcMode="linear" /><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1" begin="0.54s" dur="0.35s" fill="freeze" /></rect>
+  <g clip-path="url(#clip13)"><text x="0" y="165.6" font-family="monospace" font-size="12" fill="#9aa5b1" xml:space="preserve"> </text></g>
+  <rect width="6.6" height="12" y="156" fill="#9aa5b1" opacity="0"><animate attributeName="x" from="0" to="0.0" begin="0.585s" dur="0.35s" fill="freeze" calcMode="linear" /><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1" begin="0.585s" dur="0.35s" fill="freeze" /></rect>
+  <g clip-path="url(#clip14)"><text x="0" y="177.6" font-family="monospace" font-size="12" fill="#9aa5b1" xml:space="preserve"> </text></g>
+  <rect width="6.6" height="12" y="168" fill="#9aa5b1" opacity="0"><animate attributeName="x" from="0" to="0.0" begin="0.63s" dur="0.35s" fill="freeze" calcMode="linear" /><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1" begin="0.63s" dur="0.35s" fill="freeze" /></rect>
+  <g clip-path="url(#clip15)"><text x="0" y="189.6" font-family="monospace" font-size="12" fill="#9aa5b1" xml:space="preserve"> </text></g>
+  <rect width="6.6" height="12" y="180" fill="#9aa5b1" opacity="0"><animate attributeName="x" from="0" to="0.0" begin="0.675s" dur="0.35s" fill="freeze" calcMode="linear" /><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1" begin="0.675s" dur="0.35s" fill="freeze" /></rect>
+  <g clip-path="url(#clip16)"><text x="0" y="201.6" font-family="monospace" font-size="12" fill="#9aa5b1" xml:space="preserve"> </text></g>
+  <rect width="6.6" height="12" y="192" fill="#9aa5b1" opacity="0"><animate attributeName="x" from="0" to="0.0" begin="0.72s" dur="0.35s" fill="freeze" calcMode="linear" /><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1" begin="0.72s" dur="0.35s" fill="freeze" /></rect>
+  <g clip-path="url(#clip17)"><text x="0" y="213.6" font-family="monospace" font-size="12" fill="#9aa5b1" xml:space="preserve">                                        .-+ccs#ssss*=`</text></g>
+  <rect width="6.6" height="12" y="204" fill="#9aa5b1" opacity="0"><animate attributeName="x" from="0" to="349.79999999999995" begin="0.765s" dur="0.35s" fill="freeze" calcMode="linear" /><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1" begin="0.765s" dur="0.35s" fill="freeze" /></rect>
+  <g clip-path="url(#clip18)"><text x="0" y="225.6" font-family="monospace" font-size="12" fill="#9aa5b1" xml:space="preserve">                                      :*#%##sssccccs%%+</text></g>
+  <rect width="6.6" height="12" y="216" fill="#9aa5b1" opacity="0"><animate attributeName="x" from="0" to="356.4" begin="0.81s" dur="0.35s" fill="freeze" calcMode="linear" /><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1" begin="0.81s" dur="0.35s" fill="freeze" /></rect>
+  <g clip-path="url(#clip19)"><text x="0" y="237.6" font-family="monospace" font-size="12" fill="#9aa5b1" xml:space="preserve">                                      c@c-````:``:::-s%`</text></g>
+  <rect width="6.6" height="12" y="228" fill="#9aa5b1" opacity="0"><animate attributeName="x" from="0" to="362.99999999999994" begin="0.855s" dur="0.35s" fill="freeze" calcMode="linear" /><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1" begin="0.855s" dur="0.35s" fill="freeze" /></rect>
+  <g clip-path="url(#clip20)"><text x="0" y="249.6" font-family="monospace" font-size="12" fill="#9aa5b1" xml:space="preserve">                                      -%=-*cc*:-csc*=-s+</text></g>
+  <rect width="6.6" height="12" y="240" fill="#9aa5b1" opacity="0"><animate attributeName="x" from="0" to="362.99999999999994" begin="0.9s" dur="0.35s" fill="freeze" calcMode="linear" /><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1" begin="0.9s" dur="0.35s" fill="freeze" /></rect>
+  <g clip-path="url(#clip21)"><text x="0" y="261.6" font-family="monospace" font-size="12" fill="#9aa5b1" xml:space="preserve">                                      `s--==+*==+++--:=c-</text></g>
+  <rect width="6.6" height="12" y="252" fill="#9aa5b1" opacity="0"><animate attributeName="x" from="0" to="369.59999999999997" begin="0.945s" dur="0.35s" fill="freeze" calcMode="linear" /><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1" begin="0.945s" dur="0.35s" fill="freeze" /></rect>
+  <g clip-path="url(#clip22)"><text x="0" y="273.6" font-family="monospace" font-size="12" fill="#9aa5b1" xml:space="preserve">                                      `+==++*ccc**c*++=-.</text></g>
+  <rect width="6.6" height="12" y="264" fill="#9aa5b1" opacity="0"><animate attributeName="x" from="0" to="369.59999999999997" begin="0.99s" dur="0.35s" fill="freeze" calcMode="linear" /><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1" begin="0.99s" dur="0.35s" fill="freeze" /></rect>
+  <g clip-path="url(#clip23)"><text x="0" y="285.6" font-family="monospace" font-size="12" fill="#9aa5b1" xml:space="preserve">                                        .=c+==-----=+*:</text></g>
+  <rect width="6.6" height="12" y="276" fill="#9aa5b1" opacity="0"><animate attributeName="x" from="0" to="356.4" begin="1.035s" dur="0.35s" fill="freeze" calcMode="linear" /><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1" begin="1.035s" dur="0.35s" fill="freeze" /></rect>
+  <g clip-path="url(#clip24)"><text x="0" y="297.6" font-family="monospace" font-size="12" fill="#9aa5b1" xml:space="preserve">                                          =cc******c*+:.</text></g>
+  <rect width="6.6" height="12" y="288" fill="#9aa5b1" opacity="0"><animate attributeName="x" from="0" to="362.99999999999994" begin="1.08s" dur="0.35s" fill="freeze" calcMode="linear" /><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1" begin="1.08s" dur="0.35s" fill="freeze" /></rect>
+  <g clip-path="url(#clip25)"><text x="0" y="309.6" font-family="monospace" font-size="12" fill="#9aa5b1" xml:space="preserve">                                          :+*csssc*+=-=*`.</text></g>
+  <rect width="6.6" height="12" y="300" fill="#9aa5b1" opacity="0"><animate attributeName="x" from="0" to="376.19999999999993" begin="1.125s" dur="0.35s" fill="freeze" calcMode="linear" /><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1" begin="1.125s" dur="0.35s" fill="freeze" /></rect>
+  <g clip-path="url(#clip26)"><text x="0" y="321.6" font-family="monospace" font-size="12" fill="#9aa5b1" xml:space="preserve">                                        ..+*=+**+++====:.``````...</text></g>
+  <rect width="6.6" height="12" y="312" fill="#9aa5b1" opacity="0"><animate attributeName="x" from="0" to="428.99999999999994" begin="1.17s" dur="0.35s" fill="freeze" calcMode="linear" /><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1" begin="1.17s" dur="0.35s" fill="freeze" /></rect>
+  <g clip-path="url(#clip27)"><text x="0" y="333.6" font-family="monospace" font-size="12" fill="#9aa5b1" xml:space="preserve">                                   ..````.`=========-:`.``````````````.</text></g>
+  <rect width="6.6" height="12" y="324" fill="#9aa5b1" opacity="0"><animate attributeName="x" from="0" to="461.99999999999994" begin="1.215s" dur="0.35s" fill="freeze" calcMode="linear" /><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1" begin="1.215s" dur="0.35s" fill="freeze" /></rect>
+  <g clip-path="url(#clip28)"><text x="0" y="345.6" font-family="monospace" font-size="12" fill="#9aa5b1" xml:space="preserve">                               .````````````:::----::::```````````````::`</text></g>
+  <rect width="6.6" height="12" y="336" fill="#9aa5b1" opacity="0"><animate attributeName="x" from="0" to="475.19999999999993" begin="1.26s" dur="0.35s" fill="freeze" calcMode="linear" /><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1" begin="1.26s" dur="0.35s" fill="freeze" /></rect>
+  <g clip-path="url(#clip29)"><text x="0" y="357.6" font-family="monospace" font-size="12" fill="#9aa5b1" xml:space="preserve">                             .::````````````````:::::`````````````::::::::`</text></g>
+  <rect width="6.6" height="12" y="348" fill="#9aa5b1" opacity="0"><animate attributeName="x" from="0" to="488.4" begin="1.305s" dur="0.35s" fill="freeze" calcMode="linear" /><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1" begin="1.305s" dur="0.35s" fill="freeze" /></rect>
+  <g clip-path="url(#clip30)"><text x="0" y="369.6" font-family="monospace" font-size="12" fill="#9aa5b1" xml:space="preserve">                            `:::::::`:````````````````````````````:::::::`:`</text></g>
+  <rect width="6.6" height="12" y="360" fill="#9aa5b1" opacity="0"><animate attributeName="x" from="0" to="494.99999999999994" begin="1.35s" dur="0.35s" fill="freeze" calcMode="linear" /><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1" begin="1.35s" dur="0.35s" fill="freeze" /></rect>
+  <g clip-path="url(#clip31)"><text x="0" y="381.6" font-family="monospace" font-size="12" fill="#9aa5b1" xml:space="preserve">                            :::::::::``````````````````````````:::-:::::`:``:.</text></g>
+  <rect width="6.6" height="12" y="372" fill="#9aa5b1" opacity="0"><animate attributeName="x" from="0" to="508.19999999999993" begin="1.395s" dur="0.35s" fill="freeze" calcMode="linear" /><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1" begin="1.395s" dur="0.35s" fill="freeze" /></rect>
+  <g clip-path="url(#clip32)"><text x="0" y="393.6" font-family="monospace" font-size="12" fill="#9aa5b1" xml:space="preserve">                           `::::-::::`````````````:````````````:::--::```````:`</text></g>
+  <rect width="6.6" height="12" y="384" fill="#9aa5b1" opacity="0"><animate attributeName="x" from="0" to="514.8" begin="1.44s" dur="0.35s" fill="freeze" calcMode="linear" /><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1" begin="1.44s" dur="0.35s" fill="freeze" /></rect>
+  <g clip-path="url(#clip33)"><text x="0" y="405.6" font-family="monospace" font-size="12" fill="#9aa5b1" xml:space="preserve">                          .:`:::---::``````````````:```````````:::=:`````::--.`</text></g>
+  <rect width="6.6" height="12" y="396" fill="#9aa5b1" opacity="0"><animate attributeName="x" from="0" to="514.8" begin="1.485s" dur="0.35s" fill="freeze" calcMode="linear" /><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1" begin="1.485s" dur="0.35s" fill="freeze" /></rect>
+  <g clip-path="url(#clip34)"><text x="0" y="417.6" font-family="monospace" font-size="12" fill="#9aa5b1" xml:space="preserve">                          .`````:--``````````````````::::```````::-+=======++.</text></g>
+  <rect width="6.6" height="12" y="408" fill="#9aa5b1" opacity="0"><animate attributeName="x" from="0" to="508.19999999999993" begin="1.53s" dur="0.35s" fill="freeze" calcMode="linear" /><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1" begin="1.53s" dur="0.35s" fill="freeze" /></rect>
+  <g clip-path="url(#clip35)"><text x="0" y="429.6" font-family="monospace" font-size="12" fill="#9aa5b1" xml:space="preserve">                            :*+===*+---:``:```````````::::::---:::-ss*+=====*-</text></g>
+  <rect width="6.6" height="12" y="420" fill="#9aa5b1" opacity="0"><animate attributeName="x" from="0" to="508.19999999999993" begin="1.575s" dur="0.35s" fill="freeze" calcMode="linear" /><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1" begin="1.575s" dur="0.35s" fill="freeze" /></rect>
+  <g clip-path="url(#clip36)"><text x="0" y="441.6" font-family="monospace" font-size="12" fill="#9aa5b1" xml:space="preserve">                            :scc**s#=---:``````````````::::::::::--cscc**+++*+</text></g>
+  <rect width="6.6" height="12" y="432" fill="#9aa5b1" opacity="0"><animate attributeName="x" from="0" to="508.19999999999993" begin="1.62s" dur="0.35s" fill="freeze" calcMode="linear" /><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1" begin="1.62s" dur="0.35s" fill="freeze" /></rect>
+  <g clip-path="url(#clip37)"><text x="0" y="453.6" font-family="monospace" font-size="12" fill="#9aa5b1" xml:space="preserve">                            -scccs#+`:`:::````````````:::::::````::-=csc*+++++</text></g>
+  <rect width="6.6" height="12" y="444" fill="#9aa5b1" opacity="0"><animate attributeName="x" from="0" to="508.19999999999993" begin="1.665s" dur="0.35s" fill="freeze" calcMode="linear" /><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1" begin="1.665s" dur="0.35s" fill="freeze" /></rect>
+  <g clip-path="url(#clip38)"><text x="0" y="465.6" font-family="monospace" font-size="12" fill="#9aa5b1" xml:space="preserve">                            =*++*cs-``::::``````````````::::```````:-*c*+++++*</text></g>
+  <rect width="6.6" height="12" y="456" fill="#9aa5b1" opacity="0"><animate attributeName="x" from="0" to="508.19999999999993" begin="1.71s" dur="0.35s" fill="freeze" calcMode="linear" /><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1" begin="1.71s" dur="0.35s" fill="freeze" /></rect>
+  <g clip-path="url(#clip39)"><text x="0" y="477.6" font-family="monospace" font-size="12" fill="#9aa5b1" xml:space="preserve">                            =*+++*c:````::::``````````````:::````.`--+*+*+++*+</text></g>
+  <rect width="6.6" height="12" y="468" fill="#9aa5b1" opacity="0"><animate attributeName="x" from="0" to="508.19999999999993" begin="1.755s" dur="0.35s" fill="freeze" calcMode="linear" /><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1" begin="1.755s" dur="0.35s" fill="freeze" /></rect>
+  <g clip-path="url(#clip40)"><text x="0" y="489.6" font-family="monospace" font-size="12" fill="#9aa5b1" xml:space="preserve">                            :s**+*c=.````````````````:::````````.``:=*****++c`</text></g>
+  <rect width="6.6" height="12" y="480" fill="#9aa5b1" opacity="0"><animate attributeName="x" from="0" to="508.19999999999993" begin="1.8s" dur="0.35s" fill="freeze" calcMode="linear" /><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1" begin="1.8s" dur="0.35s" fill="freeze" /></rect>
+  <g clip-path="url(#clip41)"><text x="0" y="501.6" font-family="monospace" font-size="12" fill="#9aa5b1" xml:space="preserve">                             +c+++c+..``````````````````:`````..```-****+**c-</text></g>
+  <rect width="6.6" height="12" y="492" fill="#9aa5b1" opacity="0"><animate attributeName="x" from="0" to="501.59999999999997" begin="1.845s" dur="0.35s" fill="freeze" calcMode="linear" /><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1" begin="1.845s" dur="0.35s" fill="freeze" /></rect>
+  <g clip-path="url(#clip42)"><text x="0" y="513.6" font-family="monospace" font-size="12" fill="#9aa5b1" xml:space="preserve">                             .c+==c-`:`.`````````````````:````````:+**++**c=</text></g>
+  <rect width="6.6" height="12" y="504" fill="#9aa5b1" opacity="0"><animate attributeName="x" from="0" to="494.99999999999994" begin="1.89s" dur="0.35s" fill="freeze" calcMode="linear" /><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1" begin="1.89s" dur="0.35s" fill="freeze" /></rect>
+  <g clip-path="url(#clip43)"><text x="0" y="525.6" font-family="monospace" font-size="12" fill="#9aa5b1" xml:space="preserve">                              :c==+=`:::``````````````::::::`````:-*++++*c-</text></g>
+  <rect width="6.6" height="12" y="516" fill="#9aa5b1" opacity="0"><animate attributeName="x" from="0" to="488.4" begin="1.935s" dur="0.35s" fill="freeze" calcMode="linear" /><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1" begin="1.935s" dur="0.35s" fill="freeze" /></rect>
+  <g clip-path="url(#clip44)"><text x="0" y="537.6" font-family="monospace" font-size="12" fill="#9aa5b1" xml:space="preserve">                               *+--+:`::::-------::::::::::::````:++=++**`</text></g>
+  <rect width="6.6" height="12" y="528" fill="#9aa5b1" opacity="0"><animate attributeName="x" from="0" to="481.79999999999995" begin="1.98s" dur="0.35s" fill="freeze" calcMode="linear" /><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1" begin="1.98s" dur="0.35s" fill="freeze" /></rect>
+  <g clip-path="url(#clip45)"><text x="0" y="549.6" font-family="monospace" font-size="12" fill="#9aa5b1" xml:space="preserve">                               :+----..```::::::::::::::````:::::=++++*+.</text></g>
+  <rect width="6.6" height="12" y="540" fill="#9aa5b1" opacity="0"><animate attributeName="x" from="0" to="475.19999999999993" begin="2.025s" dur="0.35s" fill="freeze" calcMode="linear" /><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1" begin="2.025s" dur="0.35s" fill="freeze" /></rect>
+  <g clip-path="url(#clip46)"><text x="0" y="561.6" font-family="monospace" font-size="12" fill="#9aa5b1" xml:space="preserve">                               .****s*=:```````::::::``````.``:--====++:</text></g>
+  <rect width="6.6" height="12" y="552" fill="#9aa5b1" opacity="0"><animate attributeName="x" from="0" to="468.59999999999997" begin="2.07s" dur="0.35s" fill="freeze" calcMode="linear" /><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1" begin="2.07s" dur="0.35s" fill="freeze" /></rect>
+  <g clip-path="url(#clip47)"><text x="0" y="573.6" font-family="monospace" font-size="12" fill="#9aa5b1" xml:space="preserve">                                +%######sc+=--:````:::::---=++=====++*#:</text></g>
+  <rect width="6.6" height="12" y="564" fill="#9aa5b1" opacity="0"><animate attributeName="x" from="0" to="468.59999999999997" begin="2.115s" dur="0.35s" fill="freeze" calcMode="linear" /><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1" begin="2.115s" dur="0.35s" fill="freeze" /></rect>
+  <g clip-path="url(#clip48)"><text x="0" y="585.6" font-family="monospace" font-size="12" fill="#9aa5b1" xml:space="preserve">                                `#######%%%%%##ssssssss##s#sssssssss##%-</text></g>
+  <rect width="6.6" height="12" y="576" fill="#9aa5b1" opacity="0"><animate attributeName="x" from="0" to="468.59999999999997" begin="2.16s" dur="0.35s" fill="freeze" calcMode="linear" /><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1" begin="2.16s" dur="0.35s" fill="freeze" /></rect>
+  <g clip-path="url(#clip49)"><text x="0" y="597.6" font-family="monospace" font-size="12" fill="#9aa5b1" xml:space="preserve">                                 *#ss#############ss####sssssssss#####%=</text></g>
+  <rect width="6.6" height="12" y="588" fill="#9aa5b1" opacity="0"><animate attributeName="x" from="0" to="468.59999999999997" begin="2.205s" dur="0.35s" fill="freeze" calcMode="linear" /><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1" begin="2.205s" dur="0.35s" fill="freeze" /></rect>
+  <g clip-path="url(#clip50)"><text x="0" y="609.6" font-family="monospace" font-size="12" fill="#9aa5b1" xml:space="preserve">                                 :#%########################ss########%=</text></g>
+  <rect width="6.6" height="12" y="600" fill="#9aa5b1" opacity="0"><animate attributeName="x" from="0" to="468.59999999999997" begin="2.25s" dur="0.35s" fill="freeze" calcMode="linear" /><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1" begin="2.25s" dur="0.35s" fill="freeze" /></rect>
+  <g clip-path="url(#clip51)"><text x="0" y="621.6" font-family="monospace" font-size="12" fill="#9aa5b1" xml:space="preserve">                                  `*#%###%%%%%%%%%%%######s###########%=</text></g>
+  <rect width="6.6" height="12" y="612" fill="#9aa5b1" opacity="0"><animate attributeName="x" from="0" to="468.59999999999997" begin="2.295s" dur="0.35s" fill="freeze" calcMode="linear" /><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1" begin="2.295s" dur="0.35s" fill="freeze" /></rect>
+  <g clip-path="url(#clip52)"><text x="0" y="633.6" font-family="monospace" font-size="12" fill="#9aa5b1" xml:space="preserve">                                    `c######%%%%%%%%%#################%-</text></g>
+  <rect width="6.6" height="12" y="624" fill="#9aa5b1" opacity="0"><animate attributeName="x" from="0" to="468.59999999999997" begin="2.34s" dur="0.35s" fill="freeze" calcMode="linear" /><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1" begin="2.34s" dur="0.35s" fill="freeze" /></rect>
+</svg>
