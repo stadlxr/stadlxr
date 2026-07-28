@@ -678,7 +678,7 @@
              begin="0.3s" dur="0.35s" fill="freeze" />
   </rect>
   <rect x="180" y="95" width="12" height="12" rx="2"
-        fill="#39d353" opacity="0" transform="translate(-6,-6)">
+        fill="#26a641" opacity="0" transform="translate(-6,-6)">
     <title>2 contributions on 2025-10-10</title>
     <animate attributeName="opacity" from="0" to="1"
              begin="0.3s" dur="0.35s" fill="freeze" />
@@ -759,7 +759,7 @@
              begin="0.33s" dur="0.35s" fill="freeze" />
   </rect>
   <rect x="210" y="20" width="12" height="12" rx="2"
-        fill="#39d353" opacity="0" transform="translate(-6,-6)">
+        fill="#26a641" opacity="0" transform="translate(-6,-6)">
     <title>2 contributions on 2025-10-19</title>
     <animate attributeName="opacity" from="0" to="1"
              begin="0.36s" dur="0.35s" fill="freeze" />
@@ -777,7 +777,7 @@
              begin="0.36s" dur="0.35s" fill="freeze" />
   </rect>
   <rect x="210" y="50" width="12" height="12" rx="2"
-        fill="#39d353" opacity="0" transform="translate(-6,-6)">
+        fill="#26a641" opacity="0" transform="translate(-6,-6)">
     <title>2 contributions on 2025-10-21</title>
     <animate attributeName="opacity" from="0" to="1"
              begin="0.36s" dur="0.35s" fill="freeze" />
@@ -2928,7 +2928,7 @@
              begin="1.38s" dur="0.35s" fill="freeze" />
   </rect>
   <rect x="720" y="65" width="12" height="12" rx="2"
-        fill="#39d353" opacity="0" transform="translate(-6,-6)">
+        fill="#26a641" opacity="0" transform="translate(-6,-6)">
     <title>2 contributions on 2026-06-17</title>
     <animate attributeName="opacity" from="0" to="1"
              begin="1.38s" dur="0.35s" fill="freeze" />
@@ -3298,7 +3298,7 @@
   </rect>
   <rect x="810" y="50" width="12" height="12" rx="2"
         fill="#39d353" opacity="0" transform="translate(-6,-6)">
-    <title>2 contributions on 2026-07-28</title>
+    <title>3 contributions on 2026-07-28</title>
     <animate attributeName="opacity" from="0" to="1"
              begin="1.56s" dur="0.35s" fill="freeze" />
     <animateTransform attributeName="transform" type="translate"
@@ -3309,5 +3309,5 @@
 <rect x="725" y="131" width="12" height="12" rx="2" fill="#161b22" /><rect x="740" y="131" width="12" height="12" rx="2" fill="#0e4429" /><rect x="755" y="131" width="12" height="12" rx="2" fill="#006d32" /><rect x="770" y="131" width="12" height="12" rx="2" fill="#26a641" /><rect x="785" y="131" width="12" height="12" rx="2" fill="#39d353" /><rect x="800" y="131" width="12" height="12" rx="2" fill="#69f0a0" />
   <text x="831" y="141"
         font-family="monospace" font-size="11" fill="#8b949e">More</text>
-  <text x="30" y="177" font-family="monospace" font-size="12" fill="#8b949e">24 contributions in the last year · current streak 1d · longest streak 4d</text>
+  <text x="30" y="177" font-family="monospace" font-size="12" fill="#8b949e">25 contributions in the last year · current streak 1d · longest streak 4d</text>
 </svg>
