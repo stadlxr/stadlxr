@@ -534,7 +534,7 @@
              begin="0.24s" dur="0.35s" fill="freeze" />
   </rect>
   <rect x="150" y="65" width="12" height="12" rx="2"
-        fill="#39d353" opacity="0" transform="translate(-6,-6)">
+        fill="#26a641" opacity="0" transform="translate(-6,-6)">
     <title>9 contributions on 2025-10-08</title>
     <animate attributeName="opacity" from="0" to="1"
              begin="0.24s" dur="0.35s" fill="freeze" />
@@ -552,7 +552,7 @@
              begin="0.24s" dur="0.35s" fill="freeze" />
   </rect>
   <rect x="150" y="95" width="12" height="12" rx="2"
-        fill="#006d32" opacity="0" transform="translate(-6,-6)">
+        fill="#0e4429" opacity="0" transform="translate(-6,-6)">
     <title>2 contributions on 2025-10-10</title>
     <animate attributeName="opacity" from="0" to="1"
              begin="0.24s" dur="0.35s" fill="freeze" />
@@ -633,7 +633,7 @@
              begin="0.27s" dur="0.35s" fill="freeze" />
   </rect>
   <rect x="180" y="20" width="12" height="12" rx="2"
-        fill="#006d32" opacity="0" transform="translate(-6,-6)">
+        fill="#0e4429" opacity="0" transform="translate(-6,-6)">
     <title>2 contributions on 2025-10-19</title>
     <animate attributeName="opacity" from="0" to="1"
              begin="0.3s" dur="0.35s" fill="freeze" />
@@ -651,7 +651,7 @@
              begin="0.3s" dur="0.35s" fill="freeze" />
   </rect>
   <rect x="180" y="50" width="12" height="12" rx="2"
-        fill="#006d32" opacity="0" transform="translate(-6,-6)">
+        fill="#0e4429" opacity="0" transform="translate(-6,-6)">
     <title>2 contributions on 2025-10-21</title>
     <animate attributeName="opacity" from="0" to="1"
              begin="0.3s" dur="0.35s" fill="freeze" />
@@ -2802,7 +2802,7 @@
              begin="1.32s" dur="0.35s" fill="freeze" />
   </rect>
   <rect x="690" y="65" width="12" height="12" rx="2"
-        fill="#006d32" opacity="0" transform="translate(-6,-6)">
+        fill="#0e4429" opacity="0" transform="translate(-6,-6)">
     <title>2 contributions on 2026-06-17</title>
     <animate attributeName="opacity" from="0" to="1"
              begin="1.32s" dur="0.35s" fill="freeze" />
@@ -3126,8 +3126,8 @@
              begin="1.47s" dur="0.35s" fill="freeze" />
   </rect>
   <rect x="765" y="80" width="12" height="12" rx="2"
-        fill="#161b22" opacity="0" transform="translate(-6,-6)">
-    <title>0 contributions on 2026-07-23</title>
+        fill="#39d353" opacity="0" transform="translate(-6,-6)">
+    <title>12 contributions on 2026-07-23</title>
     <animate attributeName="opacity" from="0" to="1"
              begin="1.47s" dur="0.35s" fill="freeze" />
     <animateTransform attributeName="transform" type="translate"
@@ -3171,7 +3171,7 @@
              begin="1.5s" dur="0.35s" fill="freeze" />
   </rect>
   <rect x="780" y="50" width="12" height="12" rx="2"
-        fill="#39d353" opacity="0" transform="translate(-6,-6)">
+        fill="#006d32" opacity="0" transform="translate(-6,-6)">
     <title>6 contributions on 2026-07-28</title>
     <animate attributeName="opacity" from="0" to="1"
              begin="1.5s" dur="0.35s" fill="freeze" />
@@ -3180,7 +3180,7 @@
              begin="1.5s" dur="0.35s" fill="freeze" />
   </rect>
   <rect x="780" y="65" width="12" height="12" rx="2"
-        fill="#39d353" opacity="0" transform="translate(-6,-6)">
+        fill="#26a641" opacity="0" transform="translate(-6,-6)">
     <title>7 contributions on 2026-07-29</title>
     <animate attributeName="opacity" from="0" to="1"
              begin="1.5s" dur="0.35s" fill="freeze" />
@@ -3189,7 +3189,7 @@
              begin="1.5s" dur="0.35s" fill="freeze" />
   </rect>
   <rect x="780" y="80" width="12" height="12" rx="2"
-        fill="#26a641" opacity="0" transform="translate(-6,-6)">
+        fill="#006d32" opacity="0" transform="translate(-6,-6)">
     <title>5 contributions on 2026-07-30</title>
     <animate attributeName="opacity" from="0" to="1"
              begin="1.5s" dur="0.35s" fill="freeze" />
@@ -3324,8 +3324,17 @@
              begin="1.56s" dur="0.35s" fill="freeze" />
   </rect>
   <rect x="810" y="95" width="12" height="12" rx="2"
+        fill="#0e4429" opacity="0" transform="translate(-6,-6)">
+    <title>3 contributions on 2026-08-14</title>
+    <animate attributeName="opacity" from="0" to="1"
+             begin="1.56s" dur="0.35s" fill="freeze" />
+    <animateTransform attributeName="transform" type="translate"
+             from="-6,-6" to="0,0"
+             begin="1.56s" dur="0.35s" fill="freeze" />
+  </rect>
+  <rect x="810" y="110" width="12" height="12" rx="2"
         fill="#161b22" opacity="0" transform="translate(-6,-6)">
-    <title>0 contributions on 2026-08-14</title>
+    <title>0 contributions on 2026-08-15</title>
     <animate attributeName="opacity" from="0" to="1"
              begin="1.56s" dur="0.35s" fill="freeze" />
     <animateTransform attributeName="transform" type="translate"
@@ -3336,5 +3345,5 @@
 <rect x="725" y="131" width="12" height="12" rx="2" fill="#161b22" /><rect x="740" y="131" width="12" height="12" rx="2" fill="#0e4429" /><rect x="755" y="131" width="12" height="12" rx="2" fill="#006d32" /><rect x="770" y="131" width="12" height="12" rx="2" fill="#26a641" /><rect x="785" y="131" width="12" height="12" rx="2" fill="#39d353" /><rect x="800" y="131" width="12" height="12" rx="2" fill="#69f0a0" />
   <text x="831" y="141"
         font-family="monospace" font-size="11" fill="#8b949e">More</text>
-  <text x="30" y="177" font-family="monospace" font-size="12" fill="#8b949e">54 contributions in the last year · current streak 0d · longest streak 17d</text>
+  <text x="30" y="177" font-family="monospace" font-size="12" fill="#8b949e">69 contributions in the last year · current streak 0d · longest streak 18d</text>
 </svg>
