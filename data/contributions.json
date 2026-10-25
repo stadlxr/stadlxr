@@ -1,42 +1,7 @@
 {
   "username": "stadlxr",
-  "generated_at": "2026-10-24T11:04:18.617414Z",
+  "generated_at": "2026-10-25T11:33:35.112582Z",
   "days": [
-    {
-      "date": "2025-10-19",
-      "count": 2,
-      "level": 2
-    },
-    {
-      "date": "2025-10-20",
-      "count": 1,
-      "level": 1
-    },
-    {
-      "date": "2025-10-21",
-      "count": 2,
-      "level": 2
-    },
-    {
-      "date": "2025-10-22",
-      "count": 1,
-      "level": 1
-    },
-    {
-      "date": "2025-10-23",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-24",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-25",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-10-26",
       "count": 0,
@@ -1854,21 +1819,26 @@
     },
     {
       "date": "2026-10-24",
+      "count": 1,
+      "level": 1
+    },
+    {
+      "date": "2026-10-25",
       "count": 0,
       "level": 0
     }
   ],
   "stats": {
-    "total_contributions": 127,
+    "total_contributions": 122,
     "current_streak": 0,
-    "longest_streak": 88,
+    "longest_streak": 89,
     "best_day": {
       "date": "2026-07-23",
       "count": 12,
       "level": 4
     },
     "monthly_totals": {
-      "2025-10": 6,
+      "2025-10": 0,
       "2025-11": 0,
       "2025-12": 0,
       "2026-01": 0,
@@ -1880,7 +1850,7 @@
       "2026-07": 31,
       "2026-08": 34,
       "2026-09": 33,
-      "2026-10": 23
+      "2026-10": 24
     }
   }
 }
